@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="12213.021.1.13213" package="Zametki.Prokopov" android:installLocation="auto" android:versionCode="1231">
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="30" />
+	<application android:label="Крутые заметки" android:theme="@style/MainTheme" android:icon="@mipmap/icon"></application>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+</manifest>
